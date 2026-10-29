@@ -1,0 +1,26 @@
+Tourniquet — La Famille Parfaite (application Windows)
+Copyright (c) 2026 La Famille Parfaite. Tous droits réservés. / All rights reserved.
+
+Ce logiciel et son code source sont le fruit des idées de leur autrice, réalisés avec les moyens du bord.
+Ils restent sa propriété exclusive.
+
+S'il est publié, le code l'est UNIQUEMENT pour que chacun puisse le lire et le compiler lui-même, afin de vérifier qu'il ne
+contient ni virus, ni cheval de Troie, ni logiciel espion, et que l'application distribuée correspond bien à ce code.
+
+Est permis, sans autre accord :
+  - lire le code ;
+  - le compiler sur son propre ordinateur, pour son usage personnel, afin de le vérifier ou de l'utiliser.
+
+Est interdit sans l'accord écrit de La Famille Parfaite :
+  - copier, modifier, traduire ou adapter tout ou partie du code, des textes, des images ou du design ;
+  - redistribuer le code ou une application compilée (modifiée ou non), gratuitement ou contre paiement ;
+  - s'en servir pour un autre service, site ou application ;
+  - retirer ou modifier cet avis.
+
+Les noms « La Famille Parfaite », « Tourniquet », les logos et les illustrations ne sont pas
+couverts par cette permission. League of Legends est une marque de Riot Games, Inc. ; ce projet n'est ni approuvé
+ni commandité par Riot Games.
+
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE.
+
+Contact : support@lafamilleparfaite.com
