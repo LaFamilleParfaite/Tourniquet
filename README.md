@@ -1,6 +1,6 @@
 # Tourniquet — La Famille Parfaite
 
-**L'application Windows de [lolesport.lafamilleparfaite.com](https://lolesport.lafamilleparfaite.com), la communauté québécoise de League of Legends.**
+**L'application Windows de [lolesport.lafamilleparfaite.com](https://lolesport.lafamilleparfaite.com), la communauté québécoise de League of Legends.**  
 Cups du samedi, équipes, organisations, tournois, scrims, billets, statistiques et Généa-LoL, dans une application rapide, en français et en anglais, qui se met à jour toute seule.
 
 > **Version 1.0** · Windows 10 et 11 · *English summary at the bottom.*
@@ -18,19 +18,51 @@ Cups du samedi, équipes, organisations, tournois, scrims, billets, statistiques
 
 Windows peut afficher « Windows a protégé votre ordinateur » : l'application n'est pas encore signée par un certificat payant. Clique **Informations complémentaires → Exécuter quand même**, après avoir vérifié l'empreinte du fichier (ci-dessous).
 
+---
+
+## ⚠️ Bug connu – Fiche de joueur
+
+Un problème technique dans l'application empêche actuellement de compléter la fiche de joueur directement depuis l'application et de faire passer l'étape au vert.
+
+En attendant la publication d'un correctif, **vous pouvez compléter votre fiche directement sur le site web**. La synchronisation avec l'application se fera automatiquement. 
+
+*(Note : La fonction des champions détestés nécessite un forfait payant).*
+
+👉 **Remplir votre fiche sur le site :** [https://lolesport.lafamilleparfaite.com/tableau?tab=fiche](https://lolesport.lafamilleparfaite.com/tableau?tab=fiche)
+
+Désolé pour cet inconvénient et merci pour votre patience pendant que nous travaillons sur le correctif !
+
+---
+
+## ⚠️ Known Bug – Player Card
+
+A technical issue currently prevents completing the player card step directly within the app (turning it green).
+
+While we work on a fix, **you can complete your player card directly on the website**. It will sync properly with the app.
+
+*(Note: The hated champions feature requires a paid plan).*
+
+👉 **Complete your card on the website:** [https://lolesport.lafamilleparfaite.com/tableau?tab=fiche](https://lolesport.lafamilleparfaite.com/tableau?tab=fiche)
+
+We apologize for the inconvenience and thank you for your patience!
+
+---
+
 ## Ce que fait Tourniquet
 
 | | |
 |---|---|
-| 🏆 **Les Cups du samedi** | vote de la Cup, plage horaire, tableau, sélection des champions, code de partie, résultats, palmarès |
-| 🛡️ **Équipes et organisations** | créer, inviter, gérer, annonces, page de présentation, tournois d'organisation (droit d'inscription et prix en argent, conditions et règlement) |
-| ⚔️ **Scrims et Lobby** | offres de scrims, listes d'amis, joueurs du Québec |
-| 📊 **Statistiques** | parties, notes de match, partenaires, analyse des matchs de Cup |
-| 🎟️ **La bourse et la boutique** | billets, jetons, Forfait Parfait, chandails et merch (paiement sur la page sécurisée de Stripe) |
-| 🌳 **Généa-LoL** | l'arbre des liens entre joueurs |
-| 🔄 **Mises à jour automatiques** | la nouvelle version se télécharge, puis « Redémarrer maintenant / Plus tard » |
+| 🏆 **Les Cups du samedi** | Vote de la Cup, plage horaire, tableau, sélection des champions, code de partie, résultats, palmarès |
+| 🛡️ **Équipes et organisations** | Créer, inviter, gérer, annonces, page de présentation, tournois d'organisation (droit d'inscription et prix en argent, conditions et règlement) |
+| ⚔️ **Scrims et Lobby** | Offres de scrims, listes d'amis, joueurs du Québec |
+| 📊 **Statistiques** | Parties, notes de match, partenaires, analyse des matchs de Cup |
+| 🎟️ **La bourse et la boutique** | Billets, jetons, Forfait Parfait, chandails et merch (paiement sur la page sécurisée de Stripe) |
+| 🌳 **Généa-LoL** | L'arbre des liens entre joueurs |
+| 🔄 **Mises à jour automatiques** | La nouvelle version se télécharge, puis propose « Redémarrer maintenant / Plus tard » |
 
-Tourniquet fonctionne aussi sur un PC sans League of Legends, sauf ce qui parle au client du jeu (importer sa liste d'amis, ouvrir une partie personnalisée).
+Tourniquet fonctionne aussi sur un PC sans League of Legends installé, à l'exception des fonctionnalités qui communiquent directement avec le client du jeu (ex. importer sa liste d'amis, ouvrir une partie personnalisée).
+
+---
 
 ## Vérifier un fichier téléchargé (SHA-256)
 
